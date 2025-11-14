@@ -6,11 +6,6 @@
 			<inlcude name="ErrorHandling"/>
 		</run>
 	</groups>
-	<test thread-count="5" name="Submit Order Test">
-		<classes>
-			<class name="rahulshettyacademy.tests.SubmitOrderTest" />
-		</classes>
-	</test> <!--
 	Test -->
 	<test thread-count="5" name="Error Validation Test">
 		<classes>
