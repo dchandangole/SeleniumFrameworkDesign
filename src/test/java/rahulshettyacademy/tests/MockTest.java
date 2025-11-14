@@ -22,7 +22,7 @@ import rahulshettyacademy.pageobjects.LandingPage;
 public class MockTest {
 
 	public static void main(String[] args) throws InterruptedException {
-
+//checking cicd
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));

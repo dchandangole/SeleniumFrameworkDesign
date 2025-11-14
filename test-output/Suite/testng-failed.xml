@@ -9,7 +9,7 @@
       <class name="rahulshettyacademy.tests.SubmitOrderTest">
         <methods>
           <include name="tearDown"/>
-          <include name="submitOrder" invocation-numbers="0 1"/>
+          <include name="submitOrder" invocation-numbers="0"/>
           <include name="launchApplication"/>
         </methods>
       </class> <!-- rahulshettyacademy.tests.SubmitOrderTest -->
