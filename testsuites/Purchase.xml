@@ -4,11 +4,6 @@
 <listeners>
 <listener class-name="rahulshettyacademy.TestComponents.Listeners"></listener>
 </listeners>
-	<groups>
-		<run>
-			<inlcude name="Purchase"/>
-		</run>
-	</groups>
 	<test thread-count="5" name="Submit Order Test">
 		<classes>
 			<class name="rahulshettyacademy.tests.SubmitOrderTest" />
